@@ -1,0 +1,60 @@
+1,dwarka,8,480
+2,nawada,50,470
+3,uttam nagar,95,450
+4,janakpuri,155,440
+5,tilak nagar,230,420
+6,subhash nagar,290,410
+7,tagore garden,370,400
+8,rajouri,430,390
+9,ramesh nagar,490,385
+10,moti nagar,570,375
+11,kirti nagar,650,350
+12,shadipur,720,400
+13,patel nagar,750,420
+14,rajender nagar,800,440
+15,karol bagh,850,470
+16,jhandewalan,880,500
+17,rk ashram marg,910,530
+18,rajiv chowk,940,560
+19,barakhamba,990,590
+20,mandi house,1040,620
+21,pragati maidan,1090,650
+22,indraprastha,1150,680
+23,yamuna bank,1200,700
+24,satguru ram singh marg,565,310
+25,ashok park main,475,275
+26,punjabi bagh,425,250
+27,shivaji park,375,225
+28,madipur,325,200
+29,paschim vihar,275,175
+30,peera garhi ,225,150
+31,udyog nagar,175,125
+32,nangloi,125,100
+33,mundka,75,75
+34,inderlok,600,240
+35,kanhaiya nagar,660,210
+36,netaji subhash place,720,180
+37,kohat,800,140
+38,pitampura,850,110
+39,rohini,900,80
+40,rithala,950,45
+41,shastri nagar,730,250
+42,pratap nagar,820,230
+43,tis hazari,920,210
+44,kashmiri gate,1020,190
+45,welcome,1120,170
+46,dilshad garden,1220,150
+47,patel chowk,800,570
+48,ina,750,590
+49,aiims,650,610
+50,green park,550,630
+51,malvaiya nagar,450,650
+52,saket,350,670
+53,qutab minar,250,690
+54,mg road,150,710
+55,huda city center,50,730
+56,new delhi,1100,500
+57,chawri bazar,1200,420
+58,jama masjid,1260,360
+59,chandni chowk,1120,300
+60,delhi gate,1060,250
